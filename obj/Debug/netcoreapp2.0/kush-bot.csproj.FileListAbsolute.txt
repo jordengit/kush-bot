@@ -1,0 +1,10 @@
+/Users/xavierwwj/Documents/GitHub/kush-bot/bin/Debug/netcoreapp2.0/kush-bot.deps.json
+/Users/xavierwwj/Documents/GitHub/kush-bot/bin/Debug/netcoreapp2.0/kush-bot.runtimeconfig.json
+/Users/xavierwwj/Documents/GitHub/kush-bot/bin/Debug/netcoreapp2.0/kush-bot.runtimeconfig.dev.json
+/Users/xavierwwj/Documents/GitHub/kush-bot/bin/Debug/netcoreapp2.0/kush-bot.dll
+/Users/xavierwwj/Documents/GitHub/kush-bot/bin/Debug/netcoreapp2.0/kush-bot.pdb
+/Users/xavierwwj/Documents/GitHub/kush-bot/obj/Debug/netcoreapp2.0/kush-bot.csproj.CoreCompileInputs.cache
+/Users/xavierwwj/Documents/GitHub/kush-bot/obj/Debug/netcoreapp2.0/kush-bot.AssemblyInfoInputs.cache
+/Users/xavierwwj/Documents/GitHub/kush-bot/obj/Debug/netcoreapp2.0/kush-bot.AssemblyInfo.cs
+/Users/xavierwwj/Documents/GitHub/kush-bot/obj/Debug/netcoreapp2.0/kush-bot.dll
+/Users/xavierwwj/Documents/GitHub/kush-bot/obj/Debug/netcoreapp2.0/kush-bot.pdb
