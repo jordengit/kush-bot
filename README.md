@@ -1,1 +1,5 @@
 # kush-bot
+
+A bot developed to facilitate calculations in the mobile game Puzzle & Dragons, specifically for Reincarnated Kushinadahime teams. While this bot performs functions intrinsically connected to the game's context, users may learn or find various uses from the programming codes, structures and syntax of Discord.js functions, mainly in areas like message handling, async functions.
+
+To execute the node.js implementation of this bot, download the files just inside the Discord.js implementation folder. Inside index.js, replace the 'YOUR_TOKEN_ID_HERE' line with your bot's token id string. Follow the instructions under discordapp.com where you created your app and bot to perform an OAuth2 to add your bot to your server. Finally, using any compiler like VSCode, Atom, SublimeText3, or Terminal with pm2, run the index.js code and your bot will be live! Also ensure that your server has the channel names "roles" and "bot_playground", or else modify the message detection lines in index.js to allow for message detection in your custom channels.
